@@ -20,4 +20,8 @@ export default defineConfig({
     },
   },
   base: './',
+  
+  server: {
+    port: 80,
+  }
 });
